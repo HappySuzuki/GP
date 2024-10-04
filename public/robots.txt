@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://my-portfolio.salimi.my/sitemap.xml
